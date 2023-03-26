@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(114, 101, 101);
+}
+#i{
+    border-style: solid;
+    background-color: gray;
+    border-color: gray;
+    border-radius: 20px;
+    box-shadow: 12px 12px #5a5757;
+}
+#heading{
+    font-family: 'PT Serif', serif;
+    border: solid gray;
+    display: inline-block;
+    background-color: gray;
+    color: #c9c9c9;
+    border-radius: 10px;
+    font-size: 40px;
+    box-shadow: 8px 8px #5a5757;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    border-top-width: 7px;
+    border-bottom-width: 5px;
+}
